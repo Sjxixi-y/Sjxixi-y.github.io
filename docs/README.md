@@ -10,5 +10,3 @@ public class HelloWorld {
 ~~~~
 
 **sjxixi的备忘录**
-
-![ANIME-PICTURES.NET_-_760128-1300x807-houchi+shoujo-ozzingo-single-long+hair-looking+at+viewer-blush.png](/ANIME-PICTURES.NET_-_760128-1300x807-houchi+shoujo-ozzingo-single-long+hair-looking+at+viewer-blush.png/)
