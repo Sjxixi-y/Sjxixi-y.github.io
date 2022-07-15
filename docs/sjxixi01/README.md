@@ -7,5 +7,3 @@ public class HelloWorld {
     }
 }
 ~~~~
-
-[>>java](sjxixi01/java/java001.md)
