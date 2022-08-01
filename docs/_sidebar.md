@@ -1,5 +1,7 @@
 <!-- docs/_sidebar.md --> 
 
+<!--顶栏-->
+
 * **[首页](README.md)**
 
 * **JavaSE**
@@ -7,5 +9,5 @@
   * **[Java基本知识](/sjxixi01/java002.md)**
 * **JavaEE**
 * **复习资料**
-  * **[复习资料](/sjxixi01/MySQL.md)**
+  * **[学习资料](/sjxixi01/MySQL.md)**
 

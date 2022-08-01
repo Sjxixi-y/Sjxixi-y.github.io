@@ -1,4 +1,5 @@
 <!-- _navbar.md --> 
+<!--侧边栏-->
 
 * **javaSE**
   * **[计算机基础](/sjxixi01/java001.md)**
@@ -7,5 +8,5 @@
 * **javaEE**
 
 * **复习资料**
-  * **[复习资料](/sjxixi01/MySQL.md)**
+  * **[学习资料](/sjxixi01/MySQL.md)**
 
