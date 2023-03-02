@@ -6,6 +6,6 @@
 
 > 学习，使我快乐
 
-[Giiee](https://gitee.com/sjxixi/sjxixi-demo) 
+[Giiee](https://gitee.com/sjxixi) 
 [Get Started](README)
 
