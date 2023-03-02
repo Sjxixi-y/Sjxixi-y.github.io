@@ -1,16 +1,12 @@
 
 # **首页**
 
-**梦开始的地方**
-~~~~java
-public class HelloWorld {
-    public static void main(System.in) {
-        System.out.println("Hello World");
-    }
-}
-~~~~
+本网页分为如下几个基础分支，
 
-**sjxixi的备忘录**
-
-
-**[主页](https://sjxixi-y.github.io/)**
+* Java基础
+* 面向对象基础
+* 面向对象高级
+* HTML
+* CSS
+* JavaScript
+* 数据库
